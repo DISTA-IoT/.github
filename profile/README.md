@@ -74,7 +74,7 @@ Machine-learning approaches applied to **biometric cryptography** — combining 
 We welcome collaborations, issue reports, and dataset requests.
 
 - 🌐 **Website**: [dista.uninsubria.it/~jesus.cevallos](http://www.dista.uninsubria.it/~jesus.cevallos/)
-- 🏛️ **Affiliation**: University of Insubria — DISTA, Via Valleggio 11, 22100 Como, Italy
+- 🏛️ **Affiliation**: University of Insubria — DISTA, Via O Rossi 8, 22100 Varese, Italy
 - 📧 **Email**: jesusfcevallos@gmail.com
 
 > *"Wanna create/evolve beasts alike? Contact us!"*
