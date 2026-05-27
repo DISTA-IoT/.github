@@ -1,6 +1,6 @@
 # 🔐 DISTA-IoT — AI-Driven Security for the Internet of Things
 
-> **Research group at the [Department of Science and High Technology (DISTA)](https://www.uninsubria.it/), University of Insubria, Como, Italy.**  
+> **Research group at the [Department of Science and High Technology (DISTA)](https://www.uninsubria.it/), University of Insubria, Varese, Italy.**  
 > We build open, reproducible tools at the intersection of **machine learning**, **network security**, and **Industrial IoT (IIoT)**.
 
 ---
