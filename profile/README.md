@@ -21,6 +21,9 @@
 
 Smartville is a **modular, containerised testbed** for evaluating deep-learning-based intrusion detection and mitigation in SDN-managed IoT networks. It simulates realistic attacker/victim traffic flows while giving the controller full observability.
 
+- 📦 **Main repo**: [DISTA-IoT/insubria-smartville](https://github.com/DISTA-IoT/insubria-smartville)
+- 🌐 **Docs / GitHub Page**: [dista-iot.github.io/insubria-smartville](https://dista-iot.github.io/insubria-smartville/)
+
 | Repository | Role | Lang |
 |-----------|------|------|
 | [**smartville-controller**](https://github.com/DISTA-IoT/smartville-controller) | SDN controller — runs the DL-based IDS and mitigation logic | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
